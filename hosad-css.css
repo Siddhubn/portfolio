@@ -1221,6 +1221,7 @@ button:hover {
     width: 100%;
     text-align: center;
     color: white;
+    font-family:Jost;
     font-size: 18px;
     background: rgba(0, 0, 0, 0.6);
     padding: 8px;
@@ -1288,4 +1289,65 @@ button:hover {
         font-size: 18px;
         padding: 8px;
     }
+}
+
+.blog-content h4,ul,li {
+    font-family:Caveat;
+}
+
+.more-blogs {
+    display: none; /* Initially hidden */
+}
+
+#show-more-btn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background: linear-gradient(90deg, gold, #ffd700);
+    color: #222;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+#show-more-btn:hover {
+    background: linear-gradient(90deg, #ffd700, gold);
+    color: #000;
+}
+
+@media (max-width: 768px) {
+    #show-more-btn {
+        width: 100%;
+        font-size: 14px;
+    }
+}
+
+.blog-card2{
+    width: 80%;
+    max-width: 600px;
+    border: 2px solid rgb(173, 150, 22);
+    padding: 15px;
+    border-radius: 10px;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    overflow: hidden;
+    position: relative;
+    display:none;
+}
+
+.blog-card2 h3{
+    font-family:Lexend Deca;
+    letter-spacing: 4px;;
+}
+
+.blog-card2 p{
+    font-family:Caveat;
+}
+
+/* On Hover Effects */
+.blog-card2:hover {
+    transform: scale(1.02);
+    box-shadow: 0 0 10px gold, 0 0 40px rgba(255, 215, 0, 0.5);
 }
