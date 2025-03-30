@@ -592,6 +592,7 @@ p{
 .hidden-fact button {
     padding: 10px 20px;
     font-size: 16px;
+    font-family:Jost;
     background: transparent;
     border: 2px solid #9d8215;
     color: #ffcc00;
@@ -1307,6 +1308,7 @@ button:hover {
     color: #222;
     border: none;
     font-size: 16px;
+    font-family:Jost;
     cursor: pointer;
     border-radius: 5px;
     transition: 0.3s;
