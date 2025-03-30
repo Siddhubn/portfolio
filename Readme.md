@@ -1,5 +1,3 @@
-### **README for Portfolio Repository**  
-
 # **Siddharth B N - Portfolio**  
 
 This repository contains my **personal portfolio website**, showcasing my **projects, blogs, achievements, and professional journey**.  
@@ -29,18 +27,12 @@ For any queries, feedback, or collaboration opportunities, feel free to reach ou
 - Computer Science Engineering (Data Science)  
 - Cybersecurity Enthusiast | Developer | Problem Solver  
 
-## **License**  
-This portfolio is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
+## License  
 
-📜 What this means:
+This portfolio and its contents are **solely owned by Siddharth B N**.  
+All rights are reserved, and **no part of this repository may be copied, modified, or distributed** without explicit permission from the author.  
 
-✅ You can share & adapt the content.
-
-✅ You must provide credit to the author (Siddharth B N).
-
-❌ You cannot use it for commercial purposes without permission.
-
-For full details, see the official license here: 
+© 2025 Siddharth B N. All Rights Reserved.
 
 ---
   
