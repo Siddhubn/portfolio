@@ -30,7 +30,17 @@ For any queries, feedback, or collaboration opportunities, feel free to reach ou
 - Cybersecurity Enthusiast | Developer | Problem Solver  
 
 ## **License**  
-This project is licensed under the **Clause 4 BSD** – you're free to use, modify, and distribute it, as long as proper credit is given.  
+This portfolio is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
+
+📜 What this means:
+
+✅ You can share & adapt the content.
+
+✅ You must provide credit to the author (Siddharth B N).
+
+❌ You cannot use it for commercial purposes without permission.
+
+For full details, see the official license here: 
 
 ---
   
