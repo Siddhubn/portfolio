@@ -30,7 +30,7 @@ For any queries, feedback, or collaboration opportunities, feel free to reach ou
 - Cybersecurity Enthusiast | Developer | Problem Solver  
 
 ## **License**  
-This project is licensed under the **MIT License** – you're free to use, modify, and distribute it, as long as proper credit is given.  
+This project is licensed under the **Clause 4 BSD** – you're free to use, modify, and distribute it, as long as proper credit is given.  
 
 ---
   
